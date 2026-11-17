@@ -1,0 +1,19 @@
+# mikroC / compilacion
+*.hex
+*.asm
+*.lst
+*.mcl
+*.mcpar
+*.dbg
+*.cp
+*.emcl
+*.log
+*.mpas
+*.bak
+*.ppg
+*.err
+*.mbas
+*.tmp
+# sistema
+.DS_Store
+Thumbs.db
